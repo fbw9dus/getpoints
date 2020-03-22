@@ -22,7 +22,7 @@ und das Skript um tests auszuführen:
 ```json
 "scripts": {
     ...
-    "test": "jest"
+    "test": "jest --runInBand"
 }
 ```
 
